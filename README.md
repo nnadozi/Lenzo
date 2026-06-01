@@ -18,7 +18,7 @@ Swift, SwiftUI, Apple Intelligence (on-device Foundation Models), Vision, AVFoun
 Install the latest Xcode from the Mac App Store (or developer.apple.com). Open it once so it finishes installing components.
 
 #### Open the project
-Double-click the My App 2. swiftpm package (or in Xcode: File → Open and choose that folder).
+Double-click the Lenzo.swiftpm file (or in Xcode: File → Open and choose that folder).
 You can also open it in Swift Playgrounds on Mac if you prefer that workflow.
 
 #### Select a run destination
